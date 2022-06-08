@@ -104,7 +104,7 @@ span{
 	border-radius:3px;
 	text-align:center;
 	line-height:36px;
-	color:D9D9D9;
+	color:ffffff;
 	margin-left:calc(50% - 70px)
 }
 .jd-bottom{
@@ -141,7 +141,7 @@ span{
 .jd-btn-nav{
 	position:relative;
 	height:60px;
-	color:#FFF
+	color:#FFFfff
 }
 .jd-btn-nav:after{
 	width:100%;
